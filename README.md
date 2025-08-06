@@ -13,12 +13,32 @@ mBlock, **Makeblock** tarafından geliştirilen, çocuklar ve başlangıç seviy
 - Yapay zeka, IoT, robotik gibi ileri seviye konulara giriş yapılabilir,
 - Python diliyle metin tabanlı programlamaya da geçiş yapılabilir.
 
+### 🎓 Teknik Özellikler ve Bileşenler
+
+- **Desteklediği Cihazlar:** mBot, mBot2, Ranger, Codey Rocky, Halocode, Arduino, Micro:bit ve daha fazlası.
+- **Desteklenen Programlama Dilleri:** Blok tabanlı (Scratch 3.0), Python.
+- **Platform Uyumluluğu:** Windows, macOS, Web (tarayıcı üzerinden erişim), iOS ve Android.
+- **Cloud Features:** Projeleri buluta kaydetme, Makeblock hesabıyla senkronizasyon.
+- **AI ve IoT:** Görüntü tanıma, ses tanıma, Google Sheets bağlantısı, canlı hava durumu verileri vb. kullanılabilir.
+
 ### 💡 Kimler Kullanabilir?
 
 - İlköğretim ve ortaöğretim öğrencileri
 - Kodlamaya yeni başlayanlar
 - STEM eğitmenleri
 - Maker kültürüne ilgi duyan herkes
+- Üniversiteye hazırlanan teknoloji meraklıları
+
+### 🌍 Kullanım Alanları
+
+- Okullarda kodlama müfredatı
+- Kodlama atölyeleri ve maker etkinlikleri
+- Robotik turnuvalar (MakeX, First LEGO League gibi)
+- Evde bireysel öğrenme
+
+### 📚 Öğrenme Yaklaşımı
+
+mBlock, öğrenme sürecini oyunlaştırma, problem çözme ve proje tabanlı eğitim gibi yaklaşımlarla destekler. Çocuklar, bir görevi yerine getirirken hem mantıksal düşünmeyi öğrenir hem de eğlenir.
 
 ---
 
@@ -68,7 +88,7 @@ konularında bilgi sahibi olabilirsiniz.
 1. [mBlock resmi sitesi](https://www.mblock.cc/en-us) üzerinden mBlock yazılımını indirip kurun.
 2. Bu repoyu bilgisayarınıza klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/mblock-kurs-projeleri.git
+git clone https://github.com/bahattinyunuscetin/m_block_btk.git
 ```
 3. mBlock programını açın, `Dosya > Aç` seçeneğiyle `.sb3` dosyalarını projeler klasöründen seçin.
 
@@ -95,7 +115,6 @@ Projeleri geliştirmek veya yeni projeler eklemek isterseniz PR (Pull Request) g
 ## 📬 İletişim
 
 Herhangi bir soru, öneri ya da iş birliği için benimle iletişime geçebilirsiniz:
-
 
 
 ---
